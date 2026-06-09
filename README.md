@@ -2,18 +2,27 @@ Hi, I'm Kamile 👋
 
 🔐 Cybersecurity Student
 
-📡 Learning Computer Networks
+📡 Studying Computer Networks
 
-🐧 Learning Linux
+🐧 Learning Linux Fundamentals
 
-☁️ Exploring Cloud Computing
+💻 Learning Programming Logic
+
+☁️ Cloud Computing Fundamentals
 
 🎯 Goal: SOC → Blue Team → Cloud Security
 
 Currently Studying
 
 - Computer Networks
-- Linux
-- Programming Fundamentals
+- Linux Fundamentals
+- Programming Logic
 - Information Security
-- Cloud Computing
+
+Completed Courses
+
+- Python Development
+- Linux Fundamentals
+- Cloud Fundamentals
+- Cloud Administration
+- Cloud Solution Architect
