@@ -10,10 +10,10 @@ Hi, I'm Kamile 👋
 
 🎯 Goal: SOC → Blue Team → Cloud Security
 
-Currently Learning
+Currently Studying
 
 - Computer Networks
 - Linux
-- Programming Logic
+- Programming Fundamentals
 - Information Security
 - Cloud Computing
